@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+</head>
+<body>
+   <form>
+      <input type="text">
+      <input type="submit" value="Search">
+      </form>
+<header>
+   <h1>
+      Paris
+   </h1>
+</header>
+<div>
+   <p>
+      Friday May 15th, 2026, sunny,    </p>
+      </div>
+      <div>
+         <p>
+            Humidity:28%, Feels like: 69°F, Wind: 3 mph
+         </p>
+      </div>
+<div>
+   ☀️ 65°F 
+</div>
+<div>
+   <ul>
+      <li>☀️ Today: 82°F</li>
+      <li>🌤️ Saturday: 79°F</li>
+      <li>🌧️ Sunday: 66°F</li>
+      <li>🌧️ Monday: 48°F</li>
+      <li>⛅ Tuesday: 59°F</li>
+      <li>☀️ Wednesday: 68°F</li>
+      <li>☀️ Thursday: 77°F</li>
+</div>
+<br>
+<div>
+   <p>
+     This page was coded by  <a href="https://www.shecodes.io/graduates/176926-kelsey-tripp" target="_blank">Kelsey Tripp</a> and is on <a href="https://github.com/kelseycolorado23-code" target="_blank">Github</a>
+   </p>
+   </div>
+</body>
+</html>
